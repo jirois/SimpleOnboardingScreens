@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">SimpleOnboarding</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="text_onboard">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Libero est soluta
+tempora explicabo </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
